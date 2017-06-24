@@ -1,5 +1,6 @@
 # slot_machine
-# DIAGRAMAhttps://drive.google.com/file/d/0B9z566E1IBDBT1ExUVVHSzZCZWM/view?usp=sharing
+# DIAGRAMA:
+https://drive.google.com/file/d/0B9z566E1IBDBT1ExUVVHSzZCZWM/view?usp=sharing
 
 Slot Machine
 
