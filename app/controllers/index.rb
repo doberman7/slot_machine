@@ -25,8 +25,8 @@ post '/rolls' do
   # erb :index  # TIP: Qué esté haciendo esto y qué debe hacer diferente.
   if request.xhr?
      p "request.xhr?" + "-"*50
-    # erb :index
-    erb :_die_roll, layout: false 
+    # renderear :_die_roll, pero no layout:
+    erb :_die_roll, layout: false
     else
       p "no xhr " + "-"*50
       erb :index
